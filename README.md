@@ -33,7 +33,7 @@
 ### Deploy Page
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://
 </div>https://github.com/kasunda13/ALPHA-BOT.git
-
+</div>
 ----
 
 <p align="center">
